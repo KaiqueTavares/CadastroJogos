@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CadastroJogos</string>
+    <!--%1 - pego o primeiro setPutExtra que coloquei e assim por diante
+    $s - S de tipo String e d de tipo INT
+    Fiz isto tudo aqui em baixo que não importa o meu idioma eu irei colocar meus atributos
+    puxando por estes meios logo abaixo com a ordem que você queira-->
+    <string name="mensagem_sucesso">
+        O jogo %1$s do gênero %2$s foi lançado em %3$d.
+    </string>
+</resources>
